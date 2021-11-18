@@ -1,0 +1,39 @@
+.Box1{
+    background-color: greenyellow;
+    border: 1px solid black;
+    width: 92%;
+    height: 60px;
+    margin: 2em;
+}
+.Box2{
+    background-color: rgb(255, 230, 0);
+    border: 1px solid black;
+    width: 22%;
+    height: 245px;
+    margin: 2em;
+    float: left;
+}
+.Box3{
+    background-color: rgb(255, 145, 0);
+    border: 1px solid black;
+    width: 65%;
+    height: 245px;
+    margin: 2em;
+    float: left;
+}
+.Box4{
+    background-color: rgb(255, 251, 0);
+    border: 1px solid black;
+    width: 22%;
+    height: 245px;
+    margin: 2em;
+    float: left;
+}
+.Box5{
+    background-color: rgb(0, 119, 255);
+    border: 1px solid black;
+    width: 65%;
+    height: 245px;
+    margin: 2em;
+    float: left;
+}
